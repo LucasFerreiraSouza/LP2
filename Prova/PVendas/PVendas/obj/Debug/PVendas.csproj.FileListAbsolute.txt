@@ -1,0 +1,9 @@
+C:\Users\0030482123030\source\repos\PVendas\PVendas\bin\Debug\PVendas.exe.config
+C:\Users\0030482123030\source\repos\PVendas\PVendas\bin\Debug\PVendas.exe
+C:\Users\0030482123030\source\repos\PVendas\PVendas\bin\Debug\PVendas.pdb
+C:\Users\0030482123030\source\repos\PVendas\PVendas\obj\Debug\PVendas.csprojAssemblyReference.cache
+C:\Users\0030482123030\source\repos\PVendas\PVendas\obj\Debug\PVendas.frmPVendas.resources
+C:\Users\0030482123030\source\repos\PVendas\PVendas\obj\Debug\PVendas.Properties.Resources.resources
+C:\Users\0030482123030\source\repos\PVendas\PVendas\obj\Debug\PVendas.csproj.GenerateResource.cache
+C:\Users\0030482123030\source\repos\PVendas\PVendas\obj\Debug\PVendas.exe
+C:\Users\0030482123030\source\repos\PVendas\PVendas\obj\Debug\PVendas.pdb
